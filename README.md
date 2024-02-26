@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://github.com/pedrorfdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=city_lights"/>
+  
 </div>
 
 <h2>Tecnologias que conheço ✔</h2>

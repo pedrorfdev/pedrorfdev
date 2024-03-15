@@ -1,9 +1,8 @@
 <h2 align="left">Olá 👋, eu sou Pedro Ferreira</h2>
 
 <h3>
-  Trabalho com desenvolvimento Web, Criando sites e sistemas de gestão destes sites.<br/>
-  Apaixonado por desenvolvimento Web e Satisfação dos clientes ao utilizarem sistemas que realmente ajudem no seu dia-a-dia.<br/>
-  Estudo programação e análise de sistemas (Ensino Superior).<br/>
+  Sou um desenvolvedor altamente motivado e apaixonado por resolver problemas através da programação.Com formação acadêmica em andamento, em Análise e Desenvolvimento de Sistemas e algumas experiências técnicas, adquiridas em cursos e práticas do dia a dia.
+  Atualmente busco oportunidades para desenvolver meus conhecimentos, contribuindo e apoiando o crescimento das instituições.<br/>
 </h3>
 
 <h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>

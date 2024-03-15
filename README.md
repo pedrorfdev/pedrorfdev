@@ -14,7 +14,7 @@
 
 <h2>Tecnologias que conheço ✔</h2>
   
-<h3>Front-End 👍</h3>  
+<h3>Front-End:</h3>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Defati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Defati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,13 +26,13 @@
   <img align="center" alt="Defati-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div>
   <br/>
-<h3>Back-End 👍</h3>
+<h3>Back-End:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Defati-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Defati-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
   <br/>
-<h3>Outras⚡</h3>
+<h3>Outras:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Defati-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Defati-PostGresSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -43,7 +43,7 @@
   <br/>
 <h2>Conecte-se comigo:</h2>
 <div>
-  <a href="https://www.linkedin.com/in/pedro-ferreira-9806162b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedroff/" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href="mailto:pedrorf.dev@gmail.com" target="_blank">

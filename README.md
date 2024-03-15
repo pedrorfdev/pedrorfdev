@@ -55,6 +55,7 @@
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href="mailto:pedrorf.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
 </div>

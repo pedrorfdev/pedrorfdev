@@ -11,9 +11,9 @@ Sou apaixonado por resolver problemas através da programação, assim melhorand
 </p>
 
 <p>
-Contato:
-🖥 pedrorf.dev@gmail.com
-📱 (55) 9 9939-4603
+Contato: <br/>
+🖥 pedrorf.dev@gmail.com <br/>
+📱 (55) 9 9939-4603 <br/>
 </p>
 
 

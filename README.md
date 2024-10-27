@@ -1,11 +1,21 @@
-<h2 align="left">Olá 👋, eu sou Pedro Ferreira</h2>
+<h2 align="left"> Olá, eu sou o Pedro Ferreira! 😃</h2>
 
-<h3>
-  Sou um desenvolvedor altamente motivado e apaixonado por resolver problemas através da programação.Com formação acadêmica em andamento, em Análise e Desenvolvimento de Sistemas e algumas experiências técnicas, adquiridas em cursos e práticas do dia a dia.
-  Atualmente busco oportunidades para desenvolver meus conhecimentos, contribuindo e apoiando o crescimento das instituições.<br/>
-</h3>
+<p>
+Graduando em Análise e Desenvolvimento de Sistemas e cursando a formação Engenheiro de Software pela Escola DNC onde colocamos em prática o   
+conhecimento adquirido com o objetivo de atuar na área de desenvolvimento e engenharia de software. Tenho experiência em desenvolvimento de 
+aplicações FullStack, e também como suporte de TI e atendimento ao público.
+</p>
 
-<h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>
+<p>
+Sou apaixonado por resolver problemas através da programação, assim melhorando a vida das pessoas através da tecnologia. Também sou músico, curto muito games e meu esporte é o vôlei! E claro, quem não gosta de um ☕?  
+</p>
+
+<p>
+Contato:
+🖥 pedrorf.dev@gmail.com
+📱 (55) 9 9939-4603
+</p>
+
 
 <div align="left">
   <a href="https://github.com/pedrorfdev">

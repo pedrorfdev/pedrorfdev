@@ -1,13 +1,11 @@
-<h2 align="left"> Olá, eu sou o Pedro Ferreira! 😃</h2>
+<h2 align="left">Olá, eu sou o Pedro! 😃</h2>
 
 <p>
-Graduando em Análise e Desenvolvimento de Sistemas e cursando a formação Engenheiro de Software pela Escola DNC onde colocamos em prática o   
-conhecimento adquirido com o objetivo de atuar na área de desenvolvimento e engenharia de software. Tenho experiência em desenvolvimento de 
-aplicações FullStack, e também como suporte de TI e atendimento ao público.
+Desenvolvedor focado em transformar requisitos complexos em soluções digitais de alta performance. Com sólido domínio do ecossistema JavaScript, atuo no desenvolvimento de aplicações Fullstack, priorizando arquitetura limpa, componentização e a entrega de valor real ao usuário final.
 </p>
 
 <p>
-Sou apaixonado por resolver problemas através da programação, assim melhorando a vida das pessoas através da tecnologia. Também sou músico, curto muito games e meu esporte é o vôlei! E claro, quem não gosta de um ☕?  
+Minha abordagem vai além da escrita de código: entendo o software como uma ferramenta de negócio e busco otimizar processos através de tecnologia robusta e escalável. Experiência prática na criação de sistemas ponta a ponta e integração de APIs, mantendo sempre o foco em qualidade e visão de produto.
 </p>
 
 <p>

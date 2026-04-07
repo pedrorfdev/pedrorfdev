@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Pedro Ferreira Banner" />
-
   <br/>
 
   # Software Engineer | JavaScript Ecosystem

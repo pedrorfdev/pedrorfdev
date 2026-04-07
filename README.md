@@ -1,5 +1,7 @@
 <div align="center">
-  <br/>
+  <div align="right">
+    <a href="README.en.md">English 🇺🇸</a> | <b>Português 🇧🇷</b>
+  </div>
 
   # Software Engineer | JavaScript Ecosystem
   

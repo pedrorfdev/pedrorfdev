@@ -22,7 +22,7 @@ Engenheiro de Software com foco no ecossistema **TypeScript**. Especialista em c
 
 ### 🛠️ Tech Stack & Expertise
 
-* **Front-end:** React.js, Framer Motion, Styled Components, HTML5, CSS3, JavaScript.
+* **Front-end:** React.js, Framer Motion, Tailwind, HTML5, CSS3, JavaScript.
 * **Back-end:** Node.js, NestJS, PostgreSQL, TypeORM, REST APIs, Docker, Express.js.
 * **Arquitetura e Engenharia:** SOLID, Clean Architecture, Design Patterns, DDD, SDLC.
 

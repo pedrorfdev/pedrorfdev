@@ -34,8 +34,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Ciência
 
 ### 🚀 Em destaque
 
-<!-- Confirme que Omni-Commerce e Titan Core API são autorais. Se algum veio de curso, assuma a origem no README do repositório ou tire daqui. -->
-
 * **[Vambora](https://vambora-ai.vercel.app/)**: gera um guia de viagem completo e editável a partir de destino, duração, número de pessoas e orçamento, usando a API do Gemini.
 
 ### 🤝 Vamos conversar

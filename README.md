@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack** · TypeScript, Node.js e React
 
-Rosário do Sul, RS · Remoto ou híbrido
+RS, Brasil · Remoto ou híbrido
 
 <br/>
 
